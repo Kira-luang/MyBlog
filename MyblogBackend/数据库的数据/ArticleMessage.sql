@@ -1,0 +1,11 @@
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (1, '哇！这篇文章真棒', 1, 47, 1, '2020-07-28 05:08:20.731885', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (2, 'Amazing', 0, 47, 1, '2020-07-28 05:08:20.731885', 1);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (3, 'wonderful', 0, 48, 2, '2020-07-28 05:08:20.731885', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (4, 'wonderful', 0, 47, 2, '2020-07-28 05:08:20.731885', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (5, '无声感欣慰', 0, 52, 43, '2020-07-31 21:42:32.341374', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (6, '无声感欣慰', 0, 52, 43, '2020-07-31 21:44:17.077652', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (7, '无声感欣慰', 0, 52, 43, '2020-07-31 21:44:50.920012', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (8, '无声感欣慰', 0, 52, 43, '2020-07-31 21:45:17.098631', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (9, '真可惜', 0, 80, 43, '2020-07-31 21:46:28.038582', 1);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (10, '此子心性绝佳', 0, 80, 41, '2020-08-02 01:33:24.125166', 0);
+INSERT INTO ArticleMessage (id, content, disagree, article_id, user_id, time, agree) VALUES (11, '从此进入万千世界不是梦', 0, 80, 41, '2020-08-02 01:35:58.794223', 0);

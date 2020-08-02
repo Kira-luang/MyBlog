@@ -1,0 +1,9 @@
+INSERT INTO Image (id, bigImg, name, alt) VALUES (1, '20200724/bigimg/QQ图片20200724012258.png', '成绩', '成绩');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (2, '20200724/bigimg/QQ图片20200724012336.png', '生活照', '生活照');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (3, '20200724/bigimg/QQ图片20200724012349.png', '学生照', '学生照');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (4, '20200724/bigimg/QQ图片20200724012349_CQFoKNi.png', '学生照', '学生照');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (5, '20200724/bigimg/QQ图片20200724012349_mvSd8Hw.png', '学生照', '学生照');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (6, '20200724/bigimg/QQ图片20200724012349_oG6amNm.png', '学生照', '学生照');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (7, '20200724/bigimg/QQ图片20200724012349_2ysnBb7.png', '学生照', '学生照');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (8, '20200724/bigimg/QQ图片20200724012349_exuruxQ.png', '学生照', '学生照');
+INSERT INTO Image (id, bigImg, name, alt) VALUES (9, '20200724/bigimg/QQ图片20200724012349_5mM03RS.png', '学生照', '学生照');
